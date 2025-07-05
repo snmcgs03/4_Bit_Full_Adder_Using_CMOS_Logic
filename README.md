@@ -1,7 +1,4 @@
 # 4-Bit Full Adder Using CMOS Logic (SCL 180nm PDK)
-
-> *Designed from transistor-level logic using real-world foundry PDKs. Simulated, validated, and packaged for industry-grade readiness.*
-
 ---
 ## Overview
 
