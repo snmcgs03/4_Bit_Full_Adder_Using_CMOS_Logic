@@ -1,4 +1,4 @@
-# 4-Bit Full Adder Using CMOS Logic (SCL 180nm PDK)
+# 4-Bit Full Adder Using CMOS Logic 
 ## Overview
 
 This project implements a **4-bit full adder** using basic CMOS logic gates (AND, OR, XOR), manually connected to form a **ripple-carry adder**. All simulations were carried out using **Cadence Spectre** with a 1.8V supply and **SCL 180nm standard cells**. Delay metrics and transient analysis validate the design.
