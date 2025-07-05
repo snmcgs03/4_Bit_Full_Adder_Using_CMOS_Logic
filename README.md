@@ -51,7 +51,6 @@ This project implements a **4-bit full adder** using basic CMOS logic gates (AND
 ### 4-Bit Adder Top-Level:
 - 4× Full Adders in ripple structure
 - Sum and Carry-out validated via simulation
-- 
 ---
 
 ## Simulation & Verification
@@ -82,7 +81,7 @@ This project implements a **4-bit full adder** using basic CMOS logic gates (AND
 
 ---
 
-## 📐 Physical Design Readiness (Next Steps)
+## Physical Design Readiness (Next Steps)
 
 While this project covers the full schematic design flow, the next planned steps include:
 
