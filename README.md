@@ -11,11 +11,10 @@ This project implements a **4-bit full adder** using basic CMOS logic gates (AND
 - Implement using **SCL 180nm PDK** in **Cadence Virtuoso**
 - Verify logic functionality with **transient simulations**
 - Extract and analyze **propagation delay**
-- Follow industry design methodologies in schematic, simulation, and documentation
 
 ---
 
-## ⚙️ Tools and Technology Stack
+## Tools and Technology Stack
 
 | Tool/Tech               | Purpose                                           |
 |------------------------|----------------------------------------------------|
